@@ -23,7 +23,7 @@ A simple, clean desktop application built in Python using PyQt5 and the OpenWeat
    pip install PyQt5 requests
    ```
    
-5. Get a free API key from OpenWeatherMap.
+5. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api).
 
 6. Replace YOUR_API_KEY_HERE in weather_app.py with your key.
 7. Run the app:
